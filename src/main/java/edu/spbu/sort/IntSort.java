@@ -21,6 +21,7 @@ public class IntSort {
       k = in.nextInt();
       a[i] = k;
     }*/
+    // Second try
     int f = (int)Math.round(n / 1.24733);
     while(f >= 1){
       i = 0;
